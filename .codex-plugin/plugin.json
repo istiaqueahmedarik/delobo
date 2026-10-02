@@ -1,0 +1,10 @@
+{
+  "name": "de-lobotomy",
+  "version": "1.0.0",
+  "description": "Understand tasks together, approve abstract designs, and learn through small verified implementation steps.",
+  "author": {
+    "name": "istiaqueahmedarik"
+  },
+  "repository": "https://github.com/istiaqueahmedarik/delobo",
+  "skills": "./skills/"
+}

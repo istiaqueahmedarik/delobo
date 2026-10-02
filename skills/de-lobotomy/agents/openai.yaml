@@ -1,0 +1,6 @@
+interface:
+  display_name: "de-lobotomy"
+  short_description: "Understand, design, and build with deliberate learning"
+  default_prompt: "Use $de-lobotomy to clarify this task, agree on the design, and guide me through small implementation steps."
+policy:
+  allow_implicit_invocation: false
